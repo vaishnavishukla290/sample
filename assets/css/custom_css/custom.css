@@ -1,0 +1,158 @@
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+.block1{
+	background-image: url("../../images/picture.JPG");
+	
+}
+.block2 a{
+	color: #000000;
+}
+.block3{
+	margin-top: 370px;
+	margin-left: 480px;
+	padding-bottom: 420px;
+}
+.block3 h1{
+	color: #000000;
+}
+.block3 p{
+	color: #000000;
+}
+.block3 button{
+	border:none;
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 12px;
+}
+.part1{
+	background-image: url("../../images/Rectangle1.JPG");
+	width: 49.3%;
+	padding-bottom: 248px;
+}
+.part1 h2{
+	padding-top: 390px;
+	font-size: 30px;
+}
+.part2{
+	background-image: url("../../images/Rectangle2.JPG");
+	width: 49.5%;
+	padding-bottom: 213px;
+}
+.part2 h2{
+	padding-top: 390px;
+	font-size: 30px;
+}
+.part1 button{
+	margin-left: 190px;
+	border: none;
+	background-color: #000000;
+	color: #ffffff;
+
+}
+.part2 button{
+	border:none;
+	margin-left: 190px;
+	background-color: #000000;
+	color: #ffffff;
+
+}
+.heading{
+	display: inline-block;
+	width: 100%;
+}
+.latest img{
+	width: 359px;
+
+}
+.latest p{
+	font-size: 10px;
+}
+.latest_update{
+	background-image: url("../../images/Rectangle 7.JPG");
+	display: inline-block;
+	width: 100%;
+	padding-bottom: 260px;
+}
+.latest_update h2{
+	color: #FFFFFF;
+	margin-top: 93px;
+}
+.latest_update p{
+	color: #FFFFFF;
+}
+.latest_update input{
+	border: solid 1px #FFFFFF;
+	background: transparent;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 5px;
+	padding-right: 300px;
+	margin-left: 370px;
+	margin-right: -4px;
+}
+.latest_update button{
+	border: solid 1px #FFFFFF;
+	background: transparent;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	color: #FFFFFF;
+	text-align: center;
+	padding-right: 20px;
+
+
+}
+::placeholder{
+	color:#FFFFFF;
+	text-align: left; 
+}
+.latest_update input[value=send]{
+	color: #FFFFFF;
+	text-align: center;
+}
+.mubbzy{
+	margin-top: 69px;
+	margin-bottom: 69px;
+}
+.mubbzy img{
+	width: 275px;
+	height: 200px;
+}
+.end{
+	
+	background-color: #e5e5e5;
+	padding-bottom: 450px;
+}
+.enqury h6{
+	font-weight: bold;
+}
+.enqury img{
+	margin-top: 90px;
+
+}
+.enqury button{
+	background: transparent;
+	border:1px solid #232323;
+	font-size: 12px;
+}
+.contact{
+	margin-top: 89px;
+}
+.contact h6{
+	font-weight: bold;
+}
+.contact a{
+	color: #232323;
+	font-size: 15px;
+}
+.main_footer{
+	background-color: #e5e5e5;
+	display: inline-block;
+	width: 100%;
+	border-top: 1px solid #232323;
+}
+.main_footer p{
+	font-size: 10px;
+}
